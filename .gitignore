@@ -2,4 +2,3 @@ node_modules/
 .env
 *.pfx
 *.p12
-dist/
